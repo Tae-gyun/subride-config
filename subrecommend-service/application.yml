@@ -4,6 +4,6 @@ spring:
 
 logging:
   level:
-    com.subrecommend.infra: DEBUG
-    org.hibernate.SQL: DEBUG
-    org.hibernate.type.descriptor.sql.BasicBinder: TRACE
+    com.subrecommend.infra: INFO
+    org.hibernate.SQL: INFO
+    org.hibernate.type.descriptor.sql.BasicBinder: INFO
